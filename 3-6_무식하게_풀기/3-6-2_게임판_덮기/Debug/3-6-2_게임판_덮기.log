@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\kjkw5\OneDrive\바탕화~1-LAPTOP-7FV7K77M-712968\vs\3-6_무식하게_풀기\3-6-2_게임판_덮기\소스.cpp(26,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kjkw5\OneDrive\바탕화~1-LAPTOP-7FV7K77M-712968\vs\3-6_무식하게_풀기\3-6-2_게임판_덮기\소스.cpp(56,21): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kjkw5\OneDrive\바탕화~1-LAPTOP-7FV7K77M-712968\vs\3-6_무식하게_풀기\3-6-2_게임판_덮기\소스.cpp(56,53): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kjkw5\OneDrive\바탕화~1-LAPTOP-7FV7K77M-712968\vs\3-6_무식하게_풀기\3-6-2_게임판_덮기\소스.cpp(65,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kjkw5\OneDrive\바탕화~1-LAPTOP-7FV7K77M-712968\vs\3-6_무식하게_풀기\3-6-2_게임판_덮기\소스.cpp(66,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  3-6-2_게임판_덮기.vcxproj -> C:\Users\kjkw5\OneDrive\바탕화~1-LAPTOP-7FV7K77M-712968\vs\3-6_무식하게_풀기\Debug\3-6-2_게임판_덮기.exe

@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\kjkw5\source\repos\3-8_동적_계획법\3-8-7_원주율_외우기\소스.cpp(18,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kjkw5\source\repos\3-8_동적_계획법\3-8-7_원주율_외우기\소스.cpp(31,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kjkw5\source\repos\3-8_동적_계획법\3-8-7_원주율_외우기\소스.cpp(57,17): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  3-8-7_원주율_외우기.vcxproj -> C:\Users\kjkw5\source\repos\3-8_동적_계획법\Debug\3-8-7_원주율_외우기.exe

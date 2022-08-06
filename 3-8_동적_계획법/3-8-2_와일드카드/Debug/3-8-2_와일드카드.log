@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\kjkw5\source\repos\3-8_동적_계획법\3-8-2_와일드카드\소스.cpp(86,8): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kjkw5\source\repos\3-8_동적_계획법\3-8-2_와일드카드\소스.cpp(86,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kjkw5\source\repos\3-8_동적_계획법\3-8-2_와일드카드\소스.cpp(97,38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kjkw5\source\repos\3-8_동적_계획법\3-8-2_와일드카드\소스.cpp(127,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  3-8-2_와일드카드.vcxproj -> C:\Users\kjkw5\source\repos\3-8_동적_계획법\Debug\3-8-2_와일드카드.exe

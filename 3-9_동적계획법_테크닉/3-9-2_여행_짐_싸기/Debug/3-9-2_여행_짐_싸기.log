@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\kjkw5\source\repos\3-9_동적계획법_테크닉\3-9-2_여행_짐_싸기\소스.cpp(53,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  3-9-2_여행_짐_싸기.vcxproj -> C:\Users\kjkw5\source\repos\3-9_동적계획법_테크닉\Debug\3-9-2_여행_짐_싸기.exe
